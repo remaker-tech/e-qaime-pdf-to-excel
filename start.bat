@@ -1,4 +1,4 @@
-@off
+@echo off
 echo E-Qaime Parser Isə Salinir...
 echo -----------------------------------
 python yep.py
