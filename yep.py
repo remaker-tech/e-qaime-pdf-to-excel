@@ -38,7 +38,7 @@ for file in os.listdir(PDF_QOVLUQ):
         tarix = tarix_match.group(1)
 
     # ======================================================
-    # 🔥 GÖNDƏRƏN BLOK (FIXED MULTI-LINE)
+    #  GÖNDƏRƏN BLOK 
     # ======================================================
     sender_block = []
     capture = False
@@ -74,7 +74,7 @@ for file in os.listdir(PDF_QOVLUQ):
         subkontragent = name_match.group(1)
 
     # ======================================================
-    # 🔥 CƏMİ SƏTRİ (STABLE VERSION)
+    # CƏMİ SƏTRİ (STABLE VERSION)
     # ======================================================
     cem_line = ""
 
